@@ -1,6 +1,10 @@
 # vue-env-variables-the-good-way
 [More info](https://medium.com/dzangolab/vue-js-environment-variables-799fc080d736)
 
+## Installation
+------------
+* Copy .env.example to .env and adjust the values where necessary.
+
 ## Project setup
 ```
 npm install
