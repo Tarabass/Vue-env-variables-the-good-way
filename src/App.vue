@@ -14,8 +14,7 @@ export default {
     HelloWorld
   },
   created: function() {
-    console.log(this.$feature('example'));
-    
+    console.log(this.$feature("example"));
   }
 };
 </script>
