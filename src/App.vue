@@ -12,6 +12,10 @@ export default {
   name: "App",
   components: {
     HelloWorld
+  },
+  created: function() {
+    console.log(this.$feature('example'));
+    
   }
 };
 </script>
